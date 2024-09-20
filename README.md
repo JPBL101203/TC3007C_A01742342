@@ -27,10 +27,4 @@ Portafolio_Implementacion: Portafolio de Implementación de la clase TC3006¿7C.
         
 Reto: Portafolio del Reto de la clase TC3007C.101 del alumno A01742342
         
-    -Software: Parte del módulo de Software
-        *Prueba6.txt
-        
-    -Reto_Reto: Parte del profesor de Reto
-        *README3.md
-        *RetoV2_Implementacion_Modelo.ipynb
-        *Reto_TC3006C_101.ipynb: Reporte final del proyecto
+    -prueba3.txt
