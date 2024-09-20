@@ -21,6 +21,7 @@ Portafolio_Implementacion: Portafolio de Implementación de la clase TC3006¿7C.
 
     -PLN_Implementacion: Parte del módulo de Deep Learning
         *README5.md
+        *Email_Spam.ipynb
 
     -Estadistica_Implementacion: Parte del módulo de Estadística
         *README6.md
