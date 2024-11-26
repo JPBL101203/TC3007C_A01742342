@@ -37,7 +37,7 @@ Portafolio_Analisis: Portafolio de Análisis de la clase TC3007C.101 del alumno 
         *Reporte de análisis inicial
         *Asistencia ¿Debemos preocuparnos por la IA?
         
-Portafolio_Implementacion: Portafolio de Implementación de la clase TC3006¿7C.101 del alumno A01742342
+Portafolio_Implementacion: Portafolio de Implementación de la clase TC3007C.101 del alumno A01742342
         
     -DeepLearning_Implementacion: Parte del módulo de Deep Learning
         *README4.md
