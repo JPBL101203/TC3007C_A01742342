@@ -50,7 +50,7 @@ Portafolio_Implementacion: Portafolio de Implementación de la clase TC3007C.101
         *7.- Feature Selection
         *8.- Dense + Dropout + Batch Normalization
 
-    -PLN_Implementacion: Parte del módulo de Deep Learning
+    -PLN_Implementacion: Parte del módulo de Natural Language Processing
         *README5.md
         *Tarea 1 - Clasificación de email de spam: pre-procesamiento y baselines
         *Tarea 2 - Investigación de TF-IDF y Laplace Smoothing
@@ -73,3 +73,4 @@ Reto: Portafolio del Reto de la clase TC3007C.101 del alumno A01742342
         
     -prueba3.txt
     -TC3007C_Reto_Código.ipynb
+    -Reporte Reto TC3007C
